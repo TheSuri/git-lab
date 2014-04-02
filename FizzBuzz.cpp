@@ -5,11 +5,19 @@ int main(int argc, char *argv[])
   for (unsigned int i = 0; i < 100; i++)
     {
 
+
       std::cout << i << std::endl;
       if((i%3)==0)
       {
       	cout<<"Fizz";
       }
+
+      std::cout << i << std::endl;
+      if (i%5 == 0)
+	{
+	  std::cout << "Buzz" << std::endl;
+	}
+
     }
   return (0);
 }
