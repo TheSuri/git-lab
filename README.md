@@ -16,4 +16,4 @@ julialin94
 Lab Session:
 Wednesday 12pm
 
-![Octocat](http://octodex.github.com/daftpunktocat-thomas/)
+![Octocat](http://octodex.github.com/images/daftpunktocat-thomas.gif)
